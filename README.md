@@ -1,5 +1,11 @@
 # SANDLINE — a three.js tactical FPS
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/Rizal556z/threejs-fps-02/rank.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/Rizal556z/threejs-fps-02/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
+An entry for the [threejs-fps-02 bounty on make.fun](https://make.fun/bounty/threejs-fps-02) — build the best three.js tactical FPS game. ($1,000 prize pool.)
+
 A complete round-based tactical shooter in the style Counter-Strike made famous,
 built as an original game: two teams, short rounds, a bomb to plant and defuse,
 money between rounds, a buy menu, and gunfire where accuracy counts more than speed.
